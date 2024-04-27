@@ -149,6 +149,7 @@ There are a few reasons why someone might consider moving from Redux to Zustand 
 
 References
 - [Zustand documentation](https://zustand-demo.pmnd.rs/)
+- [tutorial](https://youtu.be/fZPgBnL2x-Q)
 - [Its Zustand Vs Redux!](https://medium.com/readytowork-org/its-zustand-vs-redux-8e24424df713)
 - [Zustand vs. Redux: A Comprehensive Comparison in State Management](https://medium.com/@breakingbadjs/zustand-vs-redux-a-comprehensive-comparison-in-state-management-687a86156b14)
 
